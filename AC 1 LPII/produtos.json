@@ -1,0 +1,29 @@
+[
+	[
+		{
+			"nome": "Pasta de Amendoim Premium",
+			"desc": "Delicie-se com a nossa Pasta de Amendoim Premium, feita com 100% de amendoins torrados selecionados e um toque de sal. Ideal para passar no pão, em torradas ou para incrementar suas receitas favoritas.",
+			"url_info": "https://supermercado.com"
+		},
+		{
+			"nome": "Cereal Matinal Nutritivo",
+			"desc": "Comece o seu dia com o nosso Cereal Matinal Nutritivo, uma combinação deliciosa de aveia, flocos de milho e frutas secas. Rico em fibras e vitaminas, é a escolha perfeita para um café da manhã saudável.",
+			"url_info": "https://supermercado.com"
+		},
+		{
+			"nome": "Café Gourmet Torrado e Moído",
+			"desc": "Desfrute do sabor intenso e aroma envolvente do nosso Café Gourmet Torrado e Moído. Feito com grãos selecionados, é perfeito para quem aprecia um café de qualidade.",
+			"url_info": "https://supermercado.com"
+		},
+		{
+			"nome": "Chocolate Amargo Orgânico",
+			"desc": "O nosso Chocolate Amargo Orgânico é uma opção saudável e deliciosa para os amantes de chocolate. Feito com cacau orgânico de alta qualidade, sem adição de conservantes.",
+			"url_info": "https://supermercado.com/"
+		},
+		{
+			"nome": "Azeite de Oliva Extra Virgem",
+			"desc": "O Azeite de Oliva Extra Virgem é perfeito para finalizar pratos, saladas e até mesmo para cozinhar. Rico em antioxidantes e com sabor suave, é uma escolha saudável para sua cozinha.",
+			"url_info": "https://supermercado.com"
+		}
+	]	
+]

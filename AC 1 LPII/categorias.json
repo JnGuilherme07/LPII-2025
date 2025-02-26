@@ -1,0 +1,28 @@
+[
+    {
+        "nome": "Frios e Laticínios",
+        "desc": "A seção de Frios e Laticínios oferece uma variedade de queijos, iogurtes, manteigas e outros produtos lácteos frescos. Ideal para complementar suas refeições com sabor e qualidade.",
+        "url_info": "https://supermercado.com"
+    },
+    {
+        "nome": "Carnes e Aves",
+        "desc": "Na seção de Carnes e Aves, você encontra cortes selecionados de carne bovina, suína, aves e mais. Perfeita para preparar pratos saborosos e nutritivos para toda a família.",
+        "url_info": "https://supermercado.com"
+    },
+    {
+        "nome": "Hortifruti",
+        "desc": "Nossa seção de Hortifruti oferece frutas, legumes e verduras fresquinhos, direto do campo para a sua mesa. Produtos de alta qualidade para uma alimentação saudável e equilibrada.",
+        "url_info": "https://supermercado.com"
+    },
+    {
+        "nome": "Pães e Bolos",
+        "desc": "Delicie-se com a variedade de Pães e Bolos da nossa padaria. Produtos frescos, feitos diariamente, ideais para o seu café da manhã ou lanche da tarde.",
+        "url_info": "https://supermercado.com"
+    },
+    {
+        "nome": "Bebidas",
+        "desc": "Na seção de Bebidas, você encontra uma ampla gama de opções, desde sucos naturais até vinhos e cervejas especiais. Tudo para acompanhar suas refeições e momentos de descontração.",
+        "url_info": "https://supermercado.com"
+    }
+]
+

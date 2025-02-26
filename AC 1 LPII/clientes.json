@@ -1,0 +1,23 @@
+[
+	{
+		"nome": "João Silva",
+		"desc": "João Silva é um cliente fiel da nossa loja, conhecido por sua preferência por produtos orgânicos e saudáveis. Ele adora explorar novos sabores e sempre compartilha suas experiências culinárias nas redes sociais."
+	},
+	{
+		"nome": "Maria Oliveira",
+		"desc": "Maria Oliveira é uma cliente que valoriza a praticidade e a qualidade. Ela costuma comprar alimentos prontos para facilitar o seu dia a dia agitado, mas não abre mão de escolher produtos com ingredientes naturais."
+	},
+	{
+		"nome": "Carlos Souza",
+		"desc": "Carlos Souza é um cliente apaixonado por culinária gourmet. Ele está sempre à procura de ingredientes exóticos e de alta qualidade para criar pratos sofisticados e surpreender seus amigos e familiares."
+	},
+	{
+		"nome": "Ana Ferreira",
+		"desc": "Ana Ferreira é uma cliente que busca produtos sustentáveis e com baixo impacto ambiental. Ela valoriza empresas que adotam práticas eco-friendly e está sempre em busca de novidades nesse segmento."
+	},
+	{
+		"nome": "Pedro Lima",
+		"desc": "Pedro Lima é um cliente que adora descobrir novos lançamentos e promoções. Ele aproveita as ofertas para experimentar diferentes marcas e produtos, sempre em busca do melhor custo-benefício."
+	}
+]
+
