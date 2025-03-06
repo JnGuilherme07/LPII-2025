@@ -14,10 +14,10 @@ const carrosPath = path.join(_dirname, 'carros_luxo.json');
 
 //Lendo e convertendo os dados do arquivo JSON em JS
 const carrosData = fs.readFileSync(carrosPath, 'utf-8');
-const carros= JSON.parse(carrosData);
+const carros = JSON.parse(carrosData);
 
 //Função para buscar um carro em especifico pelo nome
-function buscarCarro(nome){
+function buscarCarro(nome) {
     //Utilizando o método FIND para procurar um carro
     //Com o nome correspondente do array
     return carros.find(carro => carro.nome.toLowerCase() === nome.toLowerCase());
@@ -32,7 +32,16 @@ app.get('/buscar-carros/:nome', (req, res) => {
     const carroEncontrado = buscarCarroPorNome(nomeDoCarroBuscado);
 
     //Verificando se o carro foi encontrado
-    if (carroEncontrado){
+    if (carroEncontrado) {
         res.send(`<h1>Carro encontrado: </h1> <pre>${JSON.stringify(carroEncontrado, null, 2)}</pre>`);
     }
+    else {
+        //Enviando uma resposta indicando que o carro não foi encontrado
+        res.send(`<h1>Carro não encontrado</h1>`);
+    }
 })
+
+//Iniciar o servidor e escutar a porta exepecificada
+app.listen(port, () => {
+    console.log(`Servidor rodando em https://localhost:${PORT}`);
+});
