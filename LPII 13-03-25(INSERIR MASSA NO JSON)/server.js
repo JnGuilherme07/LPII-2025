@@ -3,7 +3,7 @@ const path = require('path');
 const express = require('express');
 
 const app = express();
-const port = 3001;
+const port = 3009;
 
 const carrosPath = path.join(_dirname, 'carros_classicos.json');
 
@@ -46,5 +46,5 @@ app.post('/adicionar-carro', (req,res) =>{
 
 //Iniciar o servidor e escutar a porta exepecificada
 app.listen(port, () => {
-    console.log(`Servidor rodando em https://localhost:3001`);
+    console.log(`Servidor rodando em https://localhost:3009`);
 });
