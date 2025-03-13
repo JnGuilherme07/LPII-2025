@@ -46,5 +46,5 @@ app.post('/adicionar-carro', (req,res) =>{
 
 //Iniciar o servidor e escutar a porta exepecificada
 app.listen(port, () => {
-    console.log(`Servidor rodando em https://localhost:${PORT}`);
+    console.log(`Servidor rodando em https://localhost:3001`);
 });
