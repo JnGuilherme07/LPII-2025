@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Max Verstappen",
+    "nacionalidade": "Holandês",
+    "equipe": "Red Bull Racing"
+  },
+  {
+    "nome": "Lewis Hamilton",
+    "nacionalidade": "Britânico",
+    "equipe": "Mercedes-AMG Petronas"
+  },
+  {
+    "nome": "Charles Leclerc",
+    "nacionalidade": "Monegasco",
+    "equipe": "Scuderia Ferrari"
+  },
+  {
+    "nome": "Fernando Alonso",
+    "nacionalidade": "Espanhol",
+    "equipe": "Aston Martin Aramco Cognizant"
+  },
+  {
+    "nome": "Lando Norris",
+    "nacionalidade": "Britânico",
+    "equipe": "McLaren F1 Team"
+  }
+]
